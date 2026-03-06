@@ -51,7 +51,14 @@ if defined FIRST_ARG (
 :: Inject --dimension ALL_DIMS if not already specified
 echo.%* | findstr /i /c:"--dimension" >nul
 if errorlevel 1 (
-    python evaluate.py %* --dimension %ALL_DIMS% --mode custom_input --output_path "!OUTPUT_PATH!"
+    python -c "import json,glob; done=sum([list(json.load(open(f)).keys()) for f in glob.glob(r'!OUTPUT_PATH!/*_eval_results.json')],[]); remaining=[d for d in '!ALL_DIMS!'.split() if d not in done]; print(' '.join(remaining))" > "%TEMP%\vbench_dims.txt" 2>nul
+    set /p DIMS_TO_RUN=<"%TEMP%\vbench_dims.txt"
+    if not defined DIMS_TO_RUN (
+        echo All dimensions already completed.
+        goto :postprocess
+    )
+    echo Skipping already completed dimensions. Running: !DIMS_TO_RUN!
+    python evaluate.py %* --dimension !DIMS_TO_RUN! --mode custom_input --output_path "!OUTPUT_PATH!"
 ) else (
     python evaluate.py %* --mode custom_input --output_path "!OUTPUT_PATH!"
 )
