@@ -50,7 +50,8 @@ def laion_aesthetic(aesthetic_model, clip_model, video_list, device):
     aesthetic_avg = 0.0
     num = 0
     video_results = []
-    for video_path in tqdm(video_list, disable=get_rank() > 0):
+    for video_path in tqdm(video_list, desc='aesthetic_quality', disable=get_rank() > 0):
+        tqdm.write(video_path)
         images = load_video(video_path)
         image_transform = clip_transform(224)
 
@@ -74,7 +75,7 @@ def laion_aesthetic(aesthetic_model, clip_model, video_list, device):
         num += 1
         video_results.append({'video_path': video_path, 'video_results': cur_avg.item()})
 
-    aesthetic_avg /= num
+    aesthetic_avg = aesthetic_avg / num if num > 0 else 0.0
     return aesthetic_avg, video_results
 
 
@@ -89,6 +90,8 @@ def compute_aesthetic_quality(json_dir, device, submodules_list, **kwargs):
         aesthetic_model = get_aesthetic_model(aes_path).to(device)
     clip_model, preprocess = clip.load(vit_path, device=device)
     video_list, _ = load_dimension_info(json_dir, dimension='aesthetic_quality', lang='en')
+    if not video_list:
+        return 0.0, []
     video_list = distribute_list_to_rank(video_list)
     all_results, video_results = laion_aesthetic(aesthetic_model, clip_model, video_list, device)
     if get_world_size() > 1:

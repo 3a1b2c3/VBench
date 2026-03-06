@@ -1,0 +1,69 @@
+@echo off
+setlocal enabledelayedexpansion
+
+set ALL_DIMS=subject_consistency background_consistency aesthetic_quality imaging_quality temporal_style overall_consistency human_action temporal_flickering motion_smoothness dynamic_degree
+:: object_class multiple_objects needs perceptron2
+:: appearance_style scene spatial_relationship color not supported for custom_input
+
+:: Parse --videos_path and --output_path from args
+set VIDEOS_PATH=
+set OUTPUT_PATH=
+set _NEXT=
+for %%A in (%*) do (
+    if defined _NEXT (
+        if "!_NEXT!"=="videos_path" set VIDEOS_PATH=%%~A
+        if "!_NEXT!"=="output_path" set OUTPUT_PATH=%%~A
+        set _NEXT=
+    ) else (
+        if "%%~A"=="--videos_path" set _NEXT=videos_path
+        if "%%~A"=="--output_path" set _NEXT=output_path
+    )
+)
+
+:: Get parent folder name of videos_path for subfolder + CSV prefix
+set FOLDER_NAME=results
+if defined VIDEOS_PATH (
+    for %%F in ("!VIDEOS_PATH!\..") do set FOLDER_NAME=%%~nxF
+)
+
+:: Default output_path to evaluation_results\<folder_name> subfolder
+if not defined OUTPUT_PATH set OUTPUT_PATH=./evaluation_results/!FOLDER_NAME!
+
+:: If first arg doesn't start with --, treat it as a shorthand dimension name
+set FIRST_ARG=%~1
+if defined FIRST_ARG (
+    set FIRST_TWO=!FIRST_ARG:~0,2!
+    if not "!FIRST_TWO!"=="--" (
+        set DIM=!FIRST_ARG!
+        shift
+        set REST=
+        :argloop
+        if "%~1"=="" goto argdone
+        set REST=!REST! %1
+        shift
+        goto argloop
+        :argdone
+        python evaluate.py !REST! --dimension !DIM! --mode custom_input --output_path "!OUTPUT_PATH!"
+        goto :postprocess
+    )
+)
+
+:: Inject --dimension ALL_DIMS if not already specified
+echo.%* | findstr /i /c:"--dimension" >nul
+if errorlevel 1 (
+    python -c "import json,glob; done=sum([list(json.load(open(f)).keys()) for f in glob.glob(r'!OUTPUT_PATH!/*_eval_results.json')],[]); remaining=[d for d in '!ALL_DIMS!'.split() if d not in done]; print(' '.join(remaining))" > "%TEMP%\vbench_dims.txt" 2>nul
+    set /p DIMS_TO_RUN=<"%TEMP%\vbench_dims.txt"
+    if not defined DIMS_TO_RUN (
+        echo All dimensions already completed.
+        goto :postprocess
+    )
+    echo Skipping already completed dimensions. Running: !DIMS_TO_RUN!
+    python evaluate.py %* --dimension !DIMS_TO_RUN! --mode custom_input --output_path "!OUTPUT_PATH!"
+) else (
+    python evaluate.py %* --mode custom_input --output_path "!OUTPUT_PATH!"
+)
+
+:postprocess
+python write_csvs.py --output_path "!OUTPUT_PATH!" --prefix "!FOLDER_NAME!"
+
+endlocal
