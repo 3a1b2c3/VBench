@@ -476,3 +476,5 @@ python evaluate.py --dimension subject_consistency background_consistency aesthe
 
 
 python evaluate.py --dimension subject_consistency background_consistency --videos_path C:\workspace\world\Infinite-World\out\vbench\videos --mode custom_input 
+
+ python c:\workspace\world\VBench\evaluate.py  --videos_path   c:\workspace\world\Infinite-World\out\vbench\videos_657120914  --mode custom_input

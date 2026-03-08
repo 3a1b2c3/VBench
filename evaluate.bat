@@ -8,6 +8,7 @@ set ALL_DIMS=subject_consistency background_consistency aesthetic_quality imagin
 :: Parse known bat-only flags; build PASS_ARGS without them for evaluate.py
 set VIDEOS_PATH=
 set OUTPUT_PATH=
+set MODEL_PREFIX=
 set PASS_ARGS=
 
 :parseloop
@@ -19,6 +20,10 @@ if /i "%~1"=="--videos_path" (
 )
 if /i "%~1"=="--output_path" (
     set OUTPUT_PATH=%~2
+    shift & shift & goto parseloop
+)
+if /i "%~1"=="--model" (
+    set MODEL_PREFIX=%~2
     shift & shift & goto parseloop
 )
 if /i "%~1"=="--port" (
@@ -38,11 +43,16 @@ if defined VIDEOS_PATH (
     for %%F in ("!_PARENT!") do set FOLDER_NAME=%%~nxF
 )
 
-:: Default output_path to evaluation_results\<folder_name> subfolder
-if not defined OUTPUT_PATH set OUTPUT_PATH=./evaluation_results/!FOLDER_NAME!
+:: Default output_path to evaluation_results\[model_]<folder_name> subfolder
+if defined MODEL_PREFIX (
+    if not defined OUTPUT_PATH set OUTPUT_PATH=./evaluation_results/!MODEL_PREFIX!_!FOLDER_NAME!
+) else (
+    if not defined OUTPUT_PATH set OUTPUT_PATH=./evaluation_results/!FOLDER_NAME!
+)
 
 :: Default port
 if not defined MASTER_PORT set MASTER_PORT=29501
+set MASTER_PORT=!MASTER_PORT!
 
 :: Inject --dimension ALL_DIMS if not already specified
 echo.!PASS_ARGS! | findstr /i /c:"--dimension" >nul

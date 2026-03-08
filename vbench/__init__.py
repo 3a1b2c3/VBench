@@ -187,6 +187,12 @@ class VBench(object):
                 for v in videos:
                     writer.writerow([v.get('video_path', ''), v.get('video_results', '')] +
                                     [v.get(k, '') for k in extra_keys])
+                def _avg(vals):
+                    nums = [v for v in vals if isinstance(v, (int, float))]
+                    return sum(nums) / len(nums) if nums else ''
+                avg_results = _avg([v.get('video_results', '') for v in videos])
+                avg_extras = [_avg([v.get(k, '') for v in videos]) for k in extra_keys]
+                writer.writerow(['average', avg_results] + avg_extras)
             print0(f'[write_csvs] {dim_path}')
         # overall CSV
         overall_path = os.path.join(self.output_path, f'{prefix}_overall.csv')
