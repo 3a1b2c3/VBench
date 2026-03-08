@@ -1,0 +1,297 @@
+dimension,overall_score
+aesthetic_quality,0.6175685939715081
+imaging_quality,0.6247937138694162
+temporal_style,0.2409885549514564
+
+dimension,video_path,video_results
+aesthetic_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a captivating scene featuring a spiral galaxy shining brilliantly in the night sky-0-657120914.mp4,0.6278256177902222
+aesthetic_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a captivating scene featuring a spiral galaxy shining brilliantly in the night sky-1-657120915.mp4,0.6233847737312317
+aesthetic_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a captivating scene featuring a spiral galaxy shining brilliantly in the night sky-2-657120916.mp4,0.6366333961486816
+aesthetic_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a captivating scene featuring a spiral galaxy shining brilliantly in the night sky-3-657120917.mp4,0.6280372738838196
+aesthetic_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a captivating scene featuring a spiral galaxy shining brilliantly in the night sky-4-657120918.mp4,0.6028302907943726
+aesthetic_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a chair in a room next to some drawings-0-657120914.mp4,0.6166620850563049
+aesthetic_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a chair in a room next to some drawings-1-657120915.mp4,0.6216449737548828
+aesthetic_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a chair in a room next to some drawings-2-657120916.mp4,0.6164287328720093
+aesthetic_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a chair in a room next to some drawings-3-657120917.mp4,0.61514812707901
+aesthetic_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a chair in a room next to some drawings-4-657120918.mp4,0.6096412539482117
+aesthetic_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a close-up view of the flames of a fireplace-0-657120914.mp4,0.4954502284526825
+aesthetic_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a close-up view of the flames of a fireplace-1-657120915.mp4,0.46617212891578674
+aesthetic_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a close-up view of the flames of a fireplace-2-657120916.mp4,0.43186524510383606
+aesthetic_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a close-up view of the flames of a fireplace-3-657120917.mp4,0.47239741683006287
+aesthetic_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a close-up view of the flames of a fireplace-4-657120918.mp4,0.46687445044517517
+aesthetic_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a farm in the middle of the day-0-657120914.mp4,0.691600501537323
+aesthetic_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a farm in the middle of the day-1-657120915.mp4,0.6845071315765381
+aesthetic_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a farm in the middle of the day-2-657120916.mp4,0.6675184965133667
+aesthetic_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a farm in the middle of the day-3-657120917.mp4,0.662346601486206
+aesthetic_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a farm in the middle of the day-4-657120918.mp4,0.6957926154136658
+aesthetic_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a flock of birds flying over a tree at sunset-0-657120914.mp4,0.6919235587120056
+aesthetic_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a flock of birds flying over a tree at sunset-1-657120915.mp4,0.6649932861328125
+aesthetic_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a flock of birds flying over a tree at sunset-2-657120916.mp4,0.690911054611206
+aesthetic_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a flock of birds flying over a tree at sunset-3-657120917.mp4,0.6944900751113892
+aesthetic_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a flock of birds flying over a tree at sunset-4-657120918.mp4,0.6889240145683289
+aesthetic_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a foggy field that has trees in the grass-0-657120914.mp4,0.5998812913894653
+aesthetic_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a foggy field that has trees in the grass-1-657120915.mp4,0.6148974895477295
+aesthetic_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a foggy field that has trees in the grass-2-657120916.mp4,0.6117069125175476
+aesthetic_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a foggy field that has trees in the grass-3-657120917.mp4,0.6029548645019531
+aesthetic_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a foggy field that has trees in the grass-4-657120918.mp4,0.6128095984458923
+aesthetic_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a foggy landscape with trees and hills in the distance-0-657120914.mp4,0.6379141211509705
+aesthetic_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a foggy landscape with trees and hills in the distance-1-657120915.mp4,0.6366428732872009
+aesthetic_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a foggy landscape with trees and hills in the distance-2-657120916.mp4,0.6473001837730408
+aesthetic_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a foggy landscape with trees and hills in the distance-3-657120917.mp4,0.6274975538253784
+aesthetic_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a foggy landscape with trees and hills in the distance-4-657120918.mp4,0.6273078322410583
+aesthetic_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a foggy road with trees in the distance-0-657120914.mp4,0.6354977488517761
+aesthetic_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a foggy road with trees in the distance-1-657120915.mp4,0.6022523641586304
+aesthetic_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a foggy road with trees in the distance-2-657120916.mp4,0.65645432472229
+aesthetic_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a foggy road with trees in the distance-3-657120917.mp4,0.6392115354537964
+aesthetic_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a foggy road with trees in the distance-4-657120918.mp4,0.6306165456771851
+aesthetic_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a group of hot air balloons flying over a field-0-657120914.mp4,0.7331873178482056
+aesthetic_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a group of hot air balloons flying over a field-1-657120915.mp4,0.7151654958724976
+aesthetic_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a group of hot air balloons flying over a field-2-657120916.mp4,0.7418966293334961
+aesthetic_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a group of hot air balloons flying over a field-3-657120917.mp4,0.7512530088424683
+aesthetic_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a group of hot air balloons flying over a field-4-657120918.mp4,0.7283384203910828
+aesthetic_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a group of hot air balloons flying over a valley-0-657120914.mp4,0.6623223423957825
+aesthetic_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a group of hot air balloons flying over a valley-1-657120915.mp4,0.6913479566574097
+aesthetic_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a group of hot air balloons flying over a valley-2-657120916.mp4,0.6579716205596924
+aesthetic_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a group of hot air balloons flying over a valley-3-657120917.mp4,0.6795556545257568
+aesthetic_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a group of hot air balloons flying over a valley-4-657120918.mp4,0.6744299530982971
+aesthetic_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a group of people standing on top of a green hill-0-657120914.mp4,0.6132887601852417
+aesthetic_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a group of people standing on top of a green hill-1-657120915.mp4,0.6130711436271667
+aesthetic_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a group of people standing on top of a green hill-2-657120916.mp4,0.6255581378936768
+aesthetic_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a group of people standing on top of a green hill-3-657120917.mp4,0.617652952671051
+aesthetic_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a group of people standing on top of a green hill-4-657120918.mp4,0.6086168885231018
+aesthetic_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a hot-air balloon flying over a desert landscape-0-657120914.mp4,0.5905441045761108
+aesthetic_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a hot-air balloon flying over a desert landscape-1-657120915.mp4,0.5890714526176453
+aesthetic_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a hot-air balloon flying over a desert landscape-2-657120916.mp4,0.5771256685256958
+aesthetic_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a hot-air balloon flying over a desert landscape-3-657120917.mp4,0.5893115997314453
+aesthetic_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a hot-air balloon flying over a desert landscape-4-657120918.mp4,0.5955886244773865
+aesthetic_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a kitchen with a sink and a lot of glasses on the counter-0-657120914.mp4,0.5508675575256348
+aesthetic_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a kitchen with a sink and a lot of glasses on the counter-1-657120915.mp4,0.5462238788604736
+aesthetic_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a kitchen with a sink and a lot of glasses on the counter-2-657120916.mp4,0.5554260015487671
+aesthetic_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a kitchen with a sink and a lot of glasses on the counter-3-657120917.mp4,0.5371946096420288
+aesthetic_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a kitchen with a sink and a lot of glasses on the counter-4-657120918.mp4,0.5457278490066528
+aesthetic_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a lake surrounded by mountains and flowers-0-657120914.mp4,0.6877300143241882
+aesthetic_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a lake surrounded by mountains and flowers-1-657120915.mp4,0.692559003829956
+aesthetic_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a lake surrounded by mountains and flowers-2-657120916.mp4,0.6820885539054871
+aesthetic_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a lake surrounded by mountains and flowers-3-657120917.mp4,0.6845007538795471
+aesthetic_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a lake surrounded by mountains and flowers-4-657120918.mp4,0.6799213886260986
+aesthetic_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a large bonfire is burning in the night sky-0-657120914.mp4,0.47324588894844055
+aesthetic_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a large bonfire is burning in the night sky-1-657120915.mp4,0.48605239391326904
+aesthetic_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a large bonfire is burning in the night sky-2-657120916.mp4,0.483574777841568
+aesthetic_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a large bonfire is burning in the night sky-3-657120917.mp4,0.5017924904823303
+aesthetic_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a large bonfire is burning in the night sky-4-657120918.mp4,0.5346450209617615
+aesthetic_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a large waterfall in the middle of a building-0-657120914.mp4,0.5000609159469604
+aesthetic_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a large waterfall in the middle of a building-1-657120915.mp4,0.49568480253219604
+aesthetic_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a large waterfall in the middle of a building-2-657120916.mp4,0.46802735328674316
+aesthetic_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a large waterfall in the middle of a building-3-657120917.mp4,0.4601616859436035
+aesthetic_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a large waterfall in the middle of a building-4-657120918.mp4,0.4792439937591553
+aesthetic_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a large waterfall in the middle of a lush green hillside-0-657120914.mp4,0.733163595199585
+aesthetic_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a large waterfall in the middle of a lush green hillside-1-657120915.mp4,0.7326191067695618
+aesthetic_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a large waterfall in the middle of a lush green hillside-2-657120916.mp4,0.7564172148704529
+aesthetic_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a large waterfall in the middle of a lush green hillside-3-657120917.mp4,0.7512658834457397
+aesthetic_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a large waterfall in the middle of a lush green hillside-4-657120918.mp4,0.73863285779953
+aesthetic_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a large wave crashes into a lighthouse on a stormy day-0-657120914.mp4,0.6126642227172852
+aesthetic_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a large wave crashes into a lighthouse on a stormy day-1-657120915.mp4,0.612750232219696
+aesthetic_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a large wave crashes into a lighthouse on a stormy day-2-657120916.mp4,0.6123700737953186
+aesthetic_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a large wave crashes into a lighthouse on a stormy day-3-657120917.mp4,0.6131017804145813
+aesthetic_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a large wave crashes into a lighthouse on a stormy day-4-657120918.mp4,0.6221361756324768
+aesthetic_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a large wave crashes over a rocky cliff-0-657120914.mp4,0.6077271699905396
+aesthetic_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a large wave crashes over a rocky cliff-1-657120915.mp4,0.5968728065490723
+aesthetic_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a large wave crashes over a rocky cliff-2-657120916.mp4,0.6239317059516907
+aesthetic_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a large wave crashes over a rocky cliff-3-657120917.mp4,0.6242687702178955
+aesthetic_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a large wave crashes over a rocky cliff-4-657120918.mp4,0.6253727674484253
+aesthetic_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a large wave in the ocean with a lot of spray coming from it-0-657120914.mp4,0.5887664556503296
+aesthetic_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a large wave in the ocean with a lot of spray coming from it-1-657120915.mp4,0.6051175594329834
+imaging_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a captivating scene featuring a spiral galaxy shining brilliantly in the night sky-0-657120914.mp4,45.15853642528842
+imaging_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a captivating scene featuring a spiral galaxy shining brilliantly in the night sky-1-657120915.mp4,42.4039866050578
+imaging_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a captivating scene featuring a spiral galaxy shining brilliantly in the night sky-2-657120916.mp4,40.437430873420666
+imaging_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a captivating scene featuring a spiral galaxy shining brilliantly in the night sky-3-657120917.mp4,42.81805472048173
+imaging_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a captivating scene featuring a spiral galaxy shining brilliantly in the night sky-4-657120918.mp4,45.094263112322885
+imaging_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a chair in a room next to some drawings-0-657120914.mp4,74.15296459790342
+imaging_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a chair in a room next to some drawings-1-657120915.mp4,73.66864224546444
+imaging_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a chair in a room next to some drawings-2-657120916.mp4,73.04126391203508
+imaging_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a chair in a room next to some drawings-3-657120917.mp4,73.54870074728261
+imaging_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a chair in a room next to some drawings-4-657120918.mp4,74.06107121817074
+imaging_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a close-up view of the flames of a fireplace-0-657120914.mp4,34.29667176667208
+imaging_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a close-up view of the flames of a fireplace-1-657120915.mp4,32.21806384021451
+imaging_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a close-up view of the flames of a fireplace-2-657120916.mp4,37.63536877365586
+imaging_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a close-up view of the flames of a fireplace-3-657120917.mp4,36.81950198345303
+imaging_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a close-up view of the flames of a fireplace-4-657120918.mp4,37.30055811390373
+imaging_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a farm in the middle of the day-0-657120914.mp4,75.9063552477345
+imaging_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a farm in the middle of the day-1-657120915.mp4,75.25734658567062
+imaging_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a farm in the middle of the day-2-657120916.mp4,77.15071750427626
+imaging_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a farm in the middle of the day-3-657120917.mp4,74.64555226201597
+imaging_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a farm in the middle of the day-4-657120918.mp4,76.70501007648728
+imaging_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a flock of birds flying over a tree at sunset-0-657120914.mp4,55.22983449142172
+imaging_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a flock of birds flying over a tree at sunset-1-657120915.mp4,50.78132645980172
+imaging_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a flock of birds flying over a tree at sunset-2-657120916.mp4,51.56574659169831
+imaging_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a flock of birds flying over a tree at sunset-3-657120917.mp4,53.26925905594915
+imaging_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a flock of birds flying over a tree at sunset-4-657120918.mp4,51.879365553767045
+imaging_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a foggy field that has trees in the grass-0-657120914.mp4,67.74214079957571
+imaging_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a foggy field that has trees in the grass-1-657120915.mp4,68.459964467872
+imaging_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a foggy field that has trees in the grass-2-657120916.mp4,67.32710808700656
+imaging_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a foggy field that has trees in the grass-3-657120917.mp4,69.03641848830704
+imaging_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a foggy field that has trees in the grass-4-657120918.mp4,71.30991998518476
+imaging_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a foggy landscape with trees and hills in the distance-0-657120914.mp4,62.579594535116826
+imaging_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a foggy landscape with trees and hills in the distance-1-657120915.mp4,63.556636810302734
+imaging_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a foggy landscape with trees and hills in the distance-2-657120916.mp4,62.58847221232349
+imaging_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a foggy landscape with trees and hills in the distance-3-657120917.mp4,63.350254106225435
+imaging_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a foggy landscape with trees and hills in the distance-4-657120918.mp4,61.99249345767572
+imaging_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a foggy road with trees in the distance-0-657120914.mp4,49.074798086415164
+imaging_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a foggy road with trees in the distance-1-657120915.mp4,45.28579858815448
+imaging_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a foggy road with trees in the distance-2-657120916.mp4,50.12001383526725
+imaging_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a foggy road with trees in the distance-3-657120917.mp4,46.12040307655098
+imaging_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a foggy road with trees in the distance-4-657120918.mp4,50.60606919756587
+imaging_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a group of hot air balloons flying over a field-0-657120914.mp4,79.76890838812596
+imaging_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a group of hot air balloons flying over a field-1-657120915.mp4,80.0030988610309
+imaging_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a group of hot air balloons flying over a field-2-657120916.mp4,79.50531892006441
+imaging_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a group of hot air balloons flying over a field-3-657120917.mp4,79.272523868158
+imaging_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a group of hot air balloons flying over a field-4-657120918.mp4,79.83959278556871
+imaging_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a group of hot air balloons flying over a valley-0-657120914.mp4,74.98685725431264
+imaging_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a group of hot air balloons flying over a valley-1-657120915.mp4,76.2008505874539
+imaging_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a group of hot air balloons flying over a valley-2-657120916.mp4,73.90187854648377
+imaging_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a group of hot air balloons flying over a valley-3-657120917.mp4,75.32650851611025
+imaging_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a group of hot air balloons flying over a valley-4-657120918.mp4,74.6290965583754
+imaging_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a group of people standing on top of a green hill-0-657120914.mp4,72.01425007411412
+imaging_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a group of people standing on top of a green hill-1-657120915.mp4,74.53135169366873
+imaging_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a group of people standing on top of a green hill-2-657120916.mp4,72.72655070050162
+imaging_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a group of people standing on top of a green hill-3-657120917.mp4,72.0081569245143
+imaging_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a group of people standing on top of a green hill-4-657120918.mp4,71.40655405032709
+imaging_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a hot-air balloon flying over a desert landscape-0-657120914.mp4,68.0262499981045
+imaging_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a hot-air balloon flying over a desert landscape-1-657120915.mp4,67.60435073568213
+imaging_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a hot-air balloon flying over a desert landscape-2-657120916.mp4,66.1972911194985
+imaging_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a hot-air balloon flying over a desert landscape-3-657120917.mp4,66.77374016424143
+imaging_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a hot-air balloon flying over a desert landscape-4-657120918.mp4,67.86786492863057
+imaging_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a kitchen with a sink and a lot of glasses on the counter-0-657120914.mp4,66.31948407096152
+imaging_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a kitchen with a sink and a lot of glasses on the counter-1-657120915.mp4,66.94160335848791
+imaging_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a kitchen with a sink and a lot of glasses on the counter-2-657120916.mp4,61.83147662618886
+imaging_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a kitchen with a sink and a lot of glasses on the counter-3-657120917.mp4,64.03325994266487
+imaging_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a kitchen with a sink and a lot of glasses on the counter-4-657120918.mp4,66.81527584383947
+imaging_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a lake surrounded by mountains and flowers-0-657120914.mp4,79.98792650684807
+imaging_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a lake surrounded by mountains and flowers-1-657120915.mp4,80.22083955373823
+imaging_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a lake surrounded by mountains and flowers-2-657120916.mp4,80.23832214545018
+imaging_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a lake surrounded by mountains and flowers-3-657120917.mp4,79.8603275844029
+imaging_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a lake surrounded by mountains and flowers-4-657120918.mp4,79.87754490064538
+imaging_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a large bonfire is burning in the night sky-0-657120914.mp4,39.31168787227654
+imaging_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a large bonfire is burning in the night sky-1-657120915.mp4,31.505511627434203
+imaging_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a large bonfire is burning in the night sky-2-657120916.mp4,33.510603330150154
+imaging_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a large bonfire is burning in the night sky-3-657120917.mp4,37.05899860547937
+imaging_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a large bonfire is burning in the night sky-4-657120918.mp4,36.87994223647976
+imaging_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a large waterfall in the middle of a building-0-657120914.mp4,59.43966729300363
+imaging_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a large waterfall in the middle of a building-1-657120915.mp4,57.67661702410775
+imaging_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a large waterfall in the middle of a building-2-657120916.mp4,59.805330406805005
+imaging_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a large waterfall in the middle of a building-3-657120917.mp4,57.81877771223554
+imaging_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a large waterfall in the middle of a building-4-657120918.mp4,62.05616881092143
+imaging_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a large waterfall in the middle of a lush green hillside-0-657120914.mp4,60.40242478269968
+imaging_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a large waterfall in the middle of a lush green hillside-1-657120915.mp4,57.63116988187991
+imaging_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a large waterfall in the middle of a lush green hillside-2-657120916.mp4,56.788299276221615
+imaging_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a large waterfall in the middle of a lush green hillside-3-657120917.mp4,58.50738876058448
+imaging_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a large waterfall in the middle of a lush green hillside-4-657120918.mp4,56.10861393235485
+imaging_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a large wave crashes into a lighthouse on a stormy day-0-657120914.mp4,66.84134842298046
+imaging_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a large wave crashes into a lighthouse on a stormy day-1-657120915.mp4,68.7879290373429
+imaging_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a large wave crashes into a lighthouse on a stormy day-2-657120916.mp4,67.4319179132118
+imaging_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a large wave crashes into a lighthouse on a stormy day-3-657120917.mp4,71.09169916188495
+imaging_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a large wave crashes into a lighthouse on a stormy day-4-657120918.mp4,69.60634987398704
+imaging_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a large wave crashes over a rocky cliff-0-657120914.mp4,73.39855829084883
+imaging_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a large wave crashes over a rocky cliff-1-657120915.mp4,65.44114085606166
+imaging_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a large wave crashes over a rocky cliff-2-657120916.mp4,73.35020752427
+imaging_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a large wave crashes over a rocky cliff-3-657120917.mp4,73.95870791607021
+imaging_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a large wave crashes over a rocky cliff-4-657120918.mp4,71.69523878867582
+imaging_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a large wave in the ocean with a lot of spray coming from it-0-657120914.mp4,44.84427088388005
+imaging_quality,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a large wave in the ocean with a lot of spray coming from it-1-657120915.mp4,46.63772060560144
+temporal_style,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a captivating scene featuring a spiral galaxy shining brilliantly in the night sky-0-657120914.mp4,0.22566598653793335
+temporal_style,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a captivating scene featuring a spiral galaxy shining brilliantly in the night sky-1-657120915.mp4,0.2274112105369568
+temporal_style,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a captivating scene featuring a spiral galaxy shining brilliantly in the night sky-2-657120916.mp4,0.2196415364742279
+temporal_style,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a captivating scene featuring a spiral galaxy shining brilliantly in the night sky-3-657120917.mp4,0.21766585111618042
+temporal_style,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a captivating scene featuring a spiral galaxy shining brilliantly in the night sky-4-657120918.mp4,0.22074168920516968
+temporal_style,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a chair in a room next to some drawings-0-657120914.mp4,0.2923702001571655
+temporal_style,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a chair in a room next to some drawings-1-657120915.mp4,0.3101975917816162
+temporal_style,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a chair in a room next to some drawings-2-657120916.mp4,0.2981148362159729
+temporal_style,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a chair in a room next to some drawings-3-657120917.mp4,0.3000730276107788
+temporal_style,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a chair in a room next to some drawings-4-657120918.mp4,0.30066582560539246
+temporal_style,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a close-up view of the flames of a fireplace-0-657120914.mp4,0.20465034246444702
+temporal_style,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a close-up view of the flames of a fireplace-1-657120915.mp4,0.19589373469352722
+temporal_style,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a close-up view of the flames of a fireplace-2-657120916.mp4,0.18254360556602478
+temporal_style,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a close-up view of the flames of a fireplace-3-657120917.mp4,0.19127479195594788
+temporal_style,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a close-up view of the flames of a fireplace-4-657120918.mp4,0.19501760601997375
+temporal_style,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a farm in the middle of the day-0-657120914.mp4,0.14940901100635529
+temporal_style,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a farm in the middle of the day-1-657120915.mp4,0.151217520236969
+temporal_style,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a farm in the middle of the day-2-657120916.mp4,0.14883670210838318
+temporal_style,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a farm in the middle of the day-3-657120917.mp4,0.14597593247890472
+temporal_style,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a farm in the middle of the day-4-657120918.mp4,0.14390379190444946
+temporal_style,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a flock of birds flying over a tree at sunset-0-657120914.mp4,0.2706744074821472
+temporal_style,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a flock of birds flying over a tree at sunset-1-657120915.mp4,0.2457699030637741
+temporal_style,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a flock of birds flying over a tree at sunset-2-657120916.mp4,0.2690567672252655
+temporal_style,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a flock of birds flying over a tree at sunset-3-657120917.mp4,0.2700451910495758
+temporal_style,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a flock of birds flying over a tree at sunset-4-657120918.mp4,0.2749124765396118
+temporal_style,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a foggy field that has trees in the grass-0-657120914.mp4,0.21418032050132751
+temporal_style,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a foggy field that has trees in the grass-1-657120915.mp4,0.21813499927520752
+temporal_style,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a foggy field that has trees in the grass-2-657120916.mp4,0.21440906822681427
+temporal_style,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a foggy field that has trees in the grass-3-657120917.mp4,0.2197863757610321
+temporal_style,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a foggy field that has trees in the grass-4-657120918.mp4,0.21088260412216187
+temporal_style,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a foggy landscape with trees and hills in the distance-0-657120914.mp4,0.2904186248779297
+temporal_style,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a foggy landscape with trees and hills in the distance-1-657120915.mp4,0.30145761370658875
+temporal_style,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a foggy landscape with trees and hills in the distance-2-657120916.mp4,0.29291287064552307
+temporal_style,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a foggy landscape with trees and hills in the distance-3-657120917.mp4,0.2803286910057068
+temporal_style,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a foggy landscape with trees and hills in the distance-4-657120918.mp4,0.2846117615699768
+temporal_style,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a foggy road with trees in the distance-0-657120914.mp4,0.2996551990509033
+temporal_style,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a foggy road with trees in the distance-1-657120915.mp4,0.29688525199890137
+temporal_style,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a foggy road with trees in the distance-2-657120916.mp4,0.29607880115509033
+temporal_style,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a foggy road with trees in the distance-3-657120917.mp4,0.29090064764022827
+temporal_style,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a foggy road with trees in the distance-4-657120918.mp4,0.2928345799446106
+temporal_style,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a group of hot air balloons flying over a field-0-657120914.mp4,0.2086315155029297
+temporal_style,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a group of hot air balloons flying over a field-1-657120915.mp4,0.22804386913776398
+temporal_style,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a group of hot air balloons flying over a field-2-657120916.mp4,0.23841828107833862
+temporal_style,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a group of hot air balloons flying over a field-3-657120917.mp4,0.24017128348350525
+temporal_style,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a group of hot air balloons flying over a field-4-657120918.mp4,0.23666170239448547
+temporal_style,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a group of hot air balloons flying over a valley-0-657120914.mp4,0.2754634916782379
+temporal_style,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a group of hot air balloons flying over a valley-1-657120915.mp4,0.2833139896392822
+temporal_style,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a group of hot air balloons flying over a valley-2-657120916.mp4,0.2843245267868042
+temporal_style,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a group of hot air balloons flying over a valley-3-657120917.mp4,0.28300589323043823
+temporal_style,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a group of hot air balloons flying over a valley-4-657120918.mp4,0.2821037471294403
+temporal_style,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a group of people standing on top of a green hill-0-657120914.mp4,0.1507505476474762
+temporal_style,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a group of people standing on top of a green hill-1-657120915.mp4,0.13272646069526672
+temporal_style,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a group of people standing on top of a green hill-2-657120916.mp4,0.12311149388551712
+temporal_style,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a group of people standing on top of a green hill-3-657120917.mp4,0.140179842710495
+temporal_style,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a group of people standing on top of a green hill-4-657120918.mp4,0.15995435416698456
+temporal_style,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a hot-air balloon flying over a desert landscape-0-657120914.mp4,0.24959686398506165
+temporal_style,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a hot-air balloon flying over a desert landscape-1-657120915.mp4,0.2618420422077179
+temporal_style,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a hot-air balloon flying over a desert landscape-2-657120916.mp4,0.25924360752105713
+temporal_style,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a hot-air balloon flying over a desert landscape-3-657120917.mp4,0.259610652923584
+temporal_style,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a hot-air balloon flying over a desert landscape-4-657120918.mp4,0.2602284848690033
+temporal_style,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a kitchen with a sink and a lot of glasses on the counter-0-657120914.mp4,0.25284940004348755
+temporal_style,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a kitchen with a sink and a lot of glasses on the counter-1-657120915.mp4,0.25411152839660645
+temporal_style,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a kitchen with a sink and a lot of glasses on the counter-2-657120916.mp4,0.25610822439193726
+temporal_style,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a kitchen with a sink and a lot of glasses on the counter-3-657120917.mp4,0.25809964537620544
+temporal_style,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a kitchen with a sink and a lot of glasses on the counter-4-657120918.mp4,0.2683078646659851
+temporal_style,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a lake surrounded by mountains and flowers-0-657120914.mp4,0.24882759153842926
+temporal_style,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a lake surrounded by mountains and flowers-1-657120915.mp4,0.2565411329269409
+temporal_style,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a lake surrounded by mountains and flowers-2-657120916.mp4,0.2475186586380005
+temporal_style,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a lake surrounded by mountains and flowers-3-657120917.mp4,0.22648769617080688
+temporal_style,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a lake surrounded by mountains and flowers-4-657120918.mp4,0.24697557091712952
+temporal_style,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a large bonfire is burning in the night sky-0-657120914.mp4,0.21872478723526
+temporal_style,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a large bonfire is burning in the night sky-1-657120915.mp4,0.21496084332466125
+temporal_style,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a large bonfire is burning in the night sky-2-657120916.mp4,0.21251150965690613
+temporal_style,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a large bonfire is burning in the night sky-3-657120917.mp4,0.21762895584106445
+temporal_style,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a large bonfire is burning in the night sky-4-657120918.mp4,0.22710035741329193
+temporal_style,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a large waterfall in the middle of a building-0-657120914.mp4,0.18699096143245697
+temporal_style,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a large waterfall in the middle of a building-1-657120915.mp4,0.19442953169345856
+temporal_style,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a large waterfall in the middle of a building-2-657120916.mp4,0.19302865862846375
+temporal_style,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a large waterfall in the middle of a building-3-657120917.mp4,0.19451066851615906
+temporal_style,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a large waterfall in the middle of a building-4-657120918.mp4,0.19846373796463013
+temporal_style,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a large waterfall in the middle of a lush green hillside-0-657120914.mp4,0.2622329294681549
+temporal_style,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a large waterfall in the middle of a lush green hillside-1-657120915.mp4,0.26196688413619995
+temporal_style,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a large waterfall in the middle of a lush green hillside-2-657120916.mp4,0.254209041595459
+temporal_style,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a large waterfall in the middle of a lush green hillside-3-657120917.mp4,0.26007378101348877
+temporal_style,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a large waterfall in the middle of a lush green hillside-4-657120918.mp4,0.2639212906360626
+temporal_style,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a large wave crashes into a lighthouse on a stormy day-0-657120914.mp4,0.2897942066192627
+temporal_style,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a large wave crashes into a lighthouse on a stormy day-1-657120915.mp4,0.3049818277359009
+temporal_style,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a large wave crashes into a lighthouse on a stormy day-2-657120916.mp4,0.31275224685668945
+temporal_style,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a large wave crashes into a lighthouse on a stormy day-3-657120917.mp4,0.3083048462867737
+temporal_style,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a large wave crashes into a lighthouse on a stormy day-4-657120918.mp4,0.3196609616279602
+temporal_style,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a large wave crashes over a rocky cliff-0-657120914.mp4,0.2687232494354248
+temporal_style,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a large wave crashes over a rocky cliff-1-657120915.mp4,0.2682827115058899
+temporal_style,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a large wave crashes over a rocky cliff-2-657120916.mp4,0.2577647864818573
+temporal_style,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a large wave crashes over a rocky cliff-3-657120917.mp4,0.2637961506843567
+temporal_style,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a large wave crashes over a rocky cliff-4-657120918.mp4,0.25722265243530273
+temporal_style,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a large wave in the ocean with a lot of spray coming from it-0-657120914.mp4,0.21166755259037018
+temporal_style,C:\workspace\world\Infinite-World\out\vbench\videos_657120914\a large wave in the ocean with a lot of spray coming from it-1-657120915.mp4,0.22376778721809387
