@@ -31,7 +31,8 @@ def parse_args():
     parser.add_argument(
         "--dimension",
         nargs='+',
-        required=True,
+        required=False,
+        default=["subject_consistency", "background_consistency", "aesthetic_quality", "imaging_quality", "temporal_style", "overall_consistency", "human_action", "temporal_flickering", "motion_smoothness", "dynamic_degree"],
         help="list of evaluation dimensions, usage: --dimension <dim_1> <dim_2>",
     )
     parser.add_argument(
@@ -110,10 +111,15 @@ def main():
     print0(f'args: {args}')
     device = torch.device("cuda")
     my_VBench = VBench(device, args.full_json_dir, args.output_path)
-    
+    submodules_dict = my_VBench.preload(
+        args.dimension,
+        local=args.load_ckpt_from_local,
+        read_frame=args.read_frame,
+    )
+
     print0(f'start evaluation')
 
-    current_time = datetime.now().strftime('%Y-%m-%d-%H:%M:%S')
+    current_time = datetime.now().strftime('%Y-%m-%d-%H-%M-%S')
 
     kwargs = {}
 
@@ -144,6 +150,7 @@ def main():
         local=args.load_ckpt_from_local,
         read_frame=args.read_frame,
         mode=args.mode,
+        submodules_dict=submodules_dict,
         **kwargs
     )
     print0('done')
